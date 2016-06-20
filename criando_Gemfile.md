@@ -61,3 +61,4 @@ Using capybara 2.7.1
 Bundle complete! 4 Gemfile dependencies, 26 gems now installed.
 Use bundle show [gemname] to see where a bundled gem is installed.
 ```
+Então observem que além das 4 gems, ele instalou todas as dependências de cada uma delas, ou seja, se precisarmos de qualquer uma gem fora dessas que colocamos no Gemfile, basta eu falar que quero usá-la.
