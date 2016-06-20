@@ -8,4 +8,4 @@ Bem, a leitura vai ser na seguinte ordem:
 
 1. Criando nosso Gemfile com as gems que realmente vamos precisar;
 2. Trabalhando com o Faker Generator;
-3. Criando nosso cadastro com dados Faker;
+3. Mão na masssa. Criando nosso cadastro com dados Faker;
