@@ -15,6 +15,7 @@ gem "cucumber"
 gem "capybara"
 gem "selenium-webdriver"
 gem "faker"
+gem "cpf_faker"
 ```
 Agora vamos instalar a gem bundler:
 

@@ -12,6 +12,9 @@ GEM
       xpath (~> 2.0)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
+    clipboard (1.1.0)
+    cpf_faker (1.3.0)
+      clipboard
     cucumber (2.4.0)
       builder (>= 2.1.2)
       cucumber-core (~> 1.5.0)
@@ -56,6 +59,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  cpf_faker
   cucumber
   faker
   selenium-webdriver
