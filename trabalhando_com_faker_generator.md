@@ -88,3 +88,4 @@ Exemplo:
 fill_in 'name', :with Faker::Name.name
 find(:css, '#name').set(Faker::Name.name)
 ```
+[E então, vamos para a prática no final do nosso material.](https://github.com/thiagomarquessp/capybara_for_all_p2/blob/master/mao_na_massa_faker.md)
