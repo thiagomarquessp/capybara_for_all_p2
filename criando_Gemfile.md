@@ -64,5 +64,6 @@ Use bundle show [gemname] to see where a bundled gem is installed.
 ```
 Então observem que além das 4 gems, ele instalou todas as dependências de cada uma delas, ou seja, se precisarmos de qualquer uma gem fora dessas que colocamos no Gemfile, basta eu falar que quero usá-la.
 
-Agora iremos para a parte II do nosso estudo, [Trabalhando com o Faker Generator]((https://github.com/thiagomarquessp/capybara_for_all_p2/blob/master/trabalhando_com_faker_generator.md))
+Agora iremos para a parte II do nosso estudo, [Trabalhando com o Faker Generator](https://github.com/thiagomarquessp/capybara_for_all_p2/blob/master/trabalhando_com_faker_generator.md)
+
 [Home](https://github.com/thiagomarquessp/capybara_for_all_p2).
